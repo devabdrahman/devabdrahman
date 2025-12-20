@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me
+🔭 I’m currently working on Spring MVC & Spring Boot Framework of Java programming language<br>
+👯 I’m looking to collaborate on: Java, Advanced Java & J2EE–based web applications, including JSP/Servlets and Spring Boot projects.<br>
+🤝 I’m looking for help with: Building scalable applications using Spring Boot, Hibernate optimization, and real-world enterprise project practices.<br>
+🌱 I’m currently learning: Advanced Spring Boot, RESTful Web Services, Hibernate ORM, and improving backend performance with MySQL.<br>
+💬 Ask me about: Core Java, OOPS, Collections, JSP, Servlets, JDBC, Spring, Spring MVC, Spring Boot, HTML, CSS, JavaScript, and Git/GitHub.<br>
+⚡ Fun fact: I’m a quick learner who enjoys turning complex Java concepts into clean, working applications 🚀
 
 
 ## 🌐 Socials:
