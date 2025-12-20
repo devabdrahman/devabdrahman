@@ -1,10 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  Spring MVC & Spring Boot Framework of Java programming language<br>
-👯 I’m looking to collaborate on Java, Advanced Java & J2EE–based web applications, including JSP/Servlets and Spring Boot projects.<br>
-🤝 I’m looking for help with Building scalable applications using Spring Boot, Hibernate optimization, and real-world enterprise project practices.<br>
-🌱 I’m currently learning Advanced Spring Boot, RESTful Web Services, Hibernate ORM, and improving backend performance with MySQL.<br>
-💬 Ask me about python, Core Java, OOPS, Collections, JSP, Servlets, JDBC, Spring, Spring MVC, Spring Boot, HTML, CSS, JavaScript, and Git/GitHub.<br>
-⚡ Fun fact: I’m a quick learner who enjoys turning complex Java concepts into clean, working applications 🚀
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
@@ -18,12 +13,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devabdrahman&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devabdrahman&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=devabdrahman&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=devabdrahman&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=devabdrahman&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=devabdrahman&icon=6&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
